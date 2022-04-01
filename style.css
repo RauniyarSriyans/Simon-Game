@@ -1,0 +1,120 @@
+/* a minimalist set of CSS resets */
+
+/* default to border-box */
+html {
+  box-sizing: border-box;
+  font-size: 16px;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+/* adjust typography defaults */
+body {
+  margin: 6rem;
+  font-family: sans-serif;
+  line-height: 1.5;
+  background-color: peru;
+  color: white; 
+  text-align: center;
+}
+button {
+  padding: 10px;
+  border-radius: 18px;
+}
+
+#gameButtonArea > button {
+  width:225px;
+  height:225px;
+  margin:15px;
+}
+
+h1 {
+  font-family: verdana, arial, sans-serif; 
+  font-size: 60px;
+}
+
+p {
+  font-family: verdana, arial, sans-serif;
+  font-size: 30px;
+}
+/* images and videos max out at full width */
+img, video {
+  height: auto;
+  max-width: 100%;
+}
+
+.footer {
+  font-family: verdana, arial, sans-serif;
+  font-size: 10px;
+  color: white;
+}
+
+.hidden {
+  display: none;
+}
+
+#startBtn {
+  width: 100px;
+  height: 50px;
+  font-size: 20px;
+  border-radius: 5px;
+  font-weight: 700;
+}
+
+#stopBtn {
+  width: 100px;
+  height: 50px;
+  font-size: 20px;
+  border-radius: 5px;
+  font-weight: 700;
+}
+
+#button1 {
+  background-image: url('https://miro.medium.com/max/368/0*d586XEJR-osPUcJ_.png');
+  background-repeat: no-repeat;  
+  background-size: 100%;
+}
+
+#button2 {
+  background-image: url('https://miro.medium.com/max/368/0*d586XEJR-osPUcJ_.png');
+  background-repeat: no-repeat;  
+  background-size: 100%;
+}
+
+#button3 {
+  background-image: url('https://miro.medium.com/max/368/0*d586XEJR-osPUcJ_.png');
+  background-repeat: no-repeat;  
+  background-size: 100%;
+}
+
+#button4 {
+  background-image: url('https://miro.medium.com/max/368/0*d586XEJR-osPUcJ_.png');
+  background-repeat: no-repeat;  
+  background-size: 100%;
+}
+#button5 {
+  background-image: url('https://miro.medium.com/max/368/0*d586XEJR-osPUcJ_.png');
+  background-repeat: no-repeat;  
+  background-size: 100%;
+}
+#button1:active, #button1.lit {
+    background:green;
+}
+
+#button2:active, #button2.lit {
+    background: blue;
+}
+
+#button3:active, #button3.lit {
+    background: red;
+}
+
+#button4:active, #button4.lit {
+    background: yellow;
+}
+
+#button5:active, #button5.lit {
+    background: darkorange;
+}
