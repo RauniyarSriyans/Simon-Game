@@ -4,7 +4,7 @@
 
 Submitted by: **Sriyans Rauniyar**
 
-Time spent: **7** hours spent in total
+Time spent: **11** hours spent in total
 
 Link to project: **https://glitch.com/edit/#!/lumbar-automatic-lathe**
 
@@ -41,10 +41,31 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](gif1-link-here)
-![](gif2-link-here)
-![](gif3-link-here)
-![](gif4-link-here)
+
+
+**Gif1: Game interface is exactly as asked and the Start button toggles to end when prompted**
+![](https://i.imgur.com/V4AuPzx.gif)
+
+**Gif2: THe game buttons light up and play sound when clicked i.e. all buttons are functioning as they are supposed to.**
+![](https://i.imgur.com/1LJDP3o.gif)
+
+**Gif3: Computer plays back the sound and visual clue for each button**
+![](https://i.imgur.com/YsV6rtu.gif)
+
+**Gif4: Play progresses to next turn after a correct guess**
+![](https://i.imgur.com/nlj0Vay.gif)
+
+**Gif4: Speed increases after each progress**
+![](https://i.imgur.com/Aeg5UD0.gif)
+
+**Gif6: Player wins the game after guessing a complete pattern**
+![](https://i.imgur.com/GfHspGg.gif)
+
+**Gif7: User loses the game only after three mistakes. After each mistake, the last pattern is repeated back.**
+![](https://i.imgur.com/EZO6SjD.gif)
+
+**Gif8: When stop button is prompted in-between a running game, the game is ended, the speed is reset, and the number of mistakes is also reset.**
+![](https://i.imgur.com/H4gHmvH.gif)
 
 ## Reflection Questions
 
