@@ -55,7 +55,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 **Gif4: Play progresses to next turn after a correct guess**
 ![](https://i.imgur.com/nlj0Vay.gif)
 
-**Gif4: Speed increases after each progress**
+**Gif5: Speed increases after each progress**
 ![](https://i.imgur.com/Aeg5UD0.gif)
 
 **Gif6: Player wins the game after guessing a complete pattern**
