@@ -46,7 +46,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 **Gif1: Game interface is exactly as asked and the Start button toggles to end when prompted**
 ![](https://i.imgur.com/V4AuPzx.gif)
 
-**Gif2: THe game buttons light up and play sound when clicked i.e. all buttons are functioning as they are supposed to.**
+**Gif2: THe game buttons light up and play sound when clicked i.e. all game buttons are functioning**
 ![](https://i.imgur.com/1LJDP3o.gif)
 
 **Gif3: Computer plays back the sound and visual clue for each button**
