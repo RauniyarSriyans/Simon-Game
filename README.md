@@ -46,7 +46,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 **Gif1: Game interface is exactly as asked and the Start button toggles to end when prompted**
 ![](https://i.imgur.com/V4AuPzx.gif)
 
-**Gif2: THe game buttons light up and play sound when clicked i.e. all game buttons are functioning**
+**Gif2: THe game buttons light up and play sound when clicked i.e. all buttons are functioning as they are supposed to.**
 ![](https://i.imgur.com/1LJDP3o.gif)
 
 **Gif3: Computer plays back the sound and visual clue for each button**
@@ -55,7 +55,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 **Gif4: Play progresses to next turn after a correct guess**
 ![](https://i.imgur.com/nlj0Vay.gif)
 
-**Gif5: Speed increases after each progress**
+**Gif4: Speed increases after each progress**
 ![](https://i.imgur.com/Aeg5UD0.gif)
 
 **Gif6: Player wins the game after guessing a complete pattern**
@@ -66,6 +66,9 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 **Gif8: When stop button is prompted in-between a running game, the game is ended, the speed is reset, and the number of mistakes is also reset.**
 ![](https://i.imgur.com/H4gHmvH.gif)
+
+**Gif9: Computer picks a random sequence everytime**
+![](https://i.imgur.com/uUJoAdg.gif)
 
 ## Reflection Questions
 
